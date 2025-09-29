@@ -293,3 +293,4 @@
 21. [Clober Futures](https://futures.clober.io)
 22. [CapSign](https://capsign.com)
 23. [Symmio](https://docs.symm.io/protocol-architecture/technical-documentation/contract-docs/symmio-options-protocol-documentation/technical-architecture)
+24. [Rubic](https://rubic.exchange/)
