@@ -123,6 +123,7 @@
 * [Diamond-Foundry](https://github.com/FydeTreasury/Diamond-Foundry) - Foundry version of Diamond Pattern (EIP-2535) reference implementation.
 * [Foundry template for diamond-3](https://github.com/alexbabits/diamond-3-foundry)
 * [diamond-boilerplate](https://github.com/JhChoy/diamond-boilerplate) - A Foundry boilerplate code using Diamond and CreateX
+* [diamond-testing-framework](https://github.com/0x76agabond/diamond-testing-framework) – A Foundry-based testing pattern for Diamond contracts.
 ### Diamond Command Line Tools
 * [gemforge](https://github.com/gemstation/gemforge) - Command-line tool for building, deploying and upgrading Diamond Standard contracts on EVM chains.
 * [louper-cli](https://github.com/mark3labs/louper-cli) - Command-line tool for Louper.dev
